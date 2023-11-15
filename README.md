@@ -5,7 +5,7 @@
 
 ### <div align="center">Asalamaleykum there🚭</div>  
 
-• Learn [here](https://school.msu.ru/)  
+• Learn [here](https://cs.msu.ru/faculty)  
   
 
 • Work [here](http://challenge.school.msu.ru/esg)  
