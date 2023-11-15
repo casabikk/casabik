@@ -4,7 +4,6 @@
   
 
 ### <div align="center">Asalamaleykum there🚭</div>  
-  
 
 learn [here](https://school.msu.ru/)  
   
@@ -48,7 +47,6 @@ study these [courses](https://www.notion.so/6b1a9567d175480fa67e9112482dc5b2?v=6
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/casabik" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/rayan_oslik" target="_blank">
