@@ -3,19 +3,18 @@
 </div>  
   
 
-### <div align="center">Асаламалейкум, меня зовут Игорь и я молодой начинающий бэкенд разработчик🚭</div>  
+### <div align="center">Asalamaleykum there🚭</div>  
   
 
-- 🔭Учусь в [Гимназии](https://school.msu.ru/)  
+learn [here](https://school.msu.ru/)  
   
 
-- 💣Работаю [здесь](http://challenge.school.msu.ru/esg)  
+work [here](http://challenge.school.msu.ru/esg)  
   
 
-- ❓ Сейчас прохожу [курсы](https://www.notion.so/6b1a9567d175480fa67e9112482dc5b2?v=6c442769e9644f08818f0ad95ad021a8)  
+study these [courses](https://www.notion.so/6b1a9567d175480fa67e9112482dc5b2?v=6c442769e9644f08818f0ad95ad021a8)  
   
-
-- 🕛Не писать после 10 - мама забирает компуктер  
+🕛don't write after 10 - mom takes the computer  
 
   
 <br/>  
@@ -49,6 +48,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/casabik" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/rayan_oslik" target="_blank">
