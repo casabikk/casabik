@@ -5,13 +5,13 @@
 
 ### <div align="center">Asalamaleykum there🚭</div>  
 
-learn [here](https://school.msu.ru/)  
+• Learn [here](https://school.msu.ru/)  
   
 
-work [here](http://challenge.school.msu.ru/esg)  
+• Work [here](http://challenge.school.msu.ru/esg)  
   
 
-study these [courses](https://www.notion.so/6b1a9567d175480fa67e9112482dc5b2?v=6c442769e9644f08818f0ad95ad021a8)  
+• Study these [courses](https://www.notion.so/6b1a9567d175480fa67e9112482dc5b2?v=6c442769e9644f08818f0ad95ad021a8)  
   
 🕛don't write after 10 - mom takes the computer  
 
